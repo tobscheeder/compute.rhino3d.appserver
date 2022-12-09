@@ -3,8 +3,12 @@
     "",
     "\\docs",
     "\\src",
-    "\\src\\routes"
+    "\\src\\bin",
+    "\\src\\examples",
+    "\\src\\files",
+    "\\src\\routes",
+    "\\src\\views"
   ],
-  "SelectedNode": "\\src\\files",
+  "SelectedNode": "\\docs\\clientcode.md",
   "PreviewInSolutionExplorer": false
 }

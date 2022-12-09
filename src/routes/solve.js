@@ -11,7 +11,7 @@ let mc = null
 
 let definition = null
 
-// In case you have a local memached server
+// In case you have a local memcached server
 // process.env.MEMCACHIER_SERVERS = '127.0.0.1:11211'
 if(process.env.MEMCACHIER_SERVERS !== undefined) {
   mc = memjs.Client.create(process.env.MEMCACHIER_SERVERS, {
